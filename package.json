@@ -58,7 +58,7 @@
     "progress": "^2.0.0",
     "puppeteer": "^1.0.0",
     "qler": "^0.3.0",
-    "yargs": "^10.1.1"
+    "yargs": "^15.4.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^5.2.5",
